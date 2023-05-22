@@ -1,0 +1,10 @@
+{
+  "name": "dep-spec-range-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rob Hogan <rob@rhogan.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.0.0"
+  }
+}
